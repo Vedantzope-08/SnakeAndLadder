@@ -11,7 +11,7 @@ void seedRandom() {
 }
 
 int image(){
- 	initwindow(600, 600, "Code4xU");
+ 	initwindow(600, 600, "SnakeAndLadder");
     readimagefile("sndlpic.jpg",50, 50, 500, 500);   
 	return 0;
 }
