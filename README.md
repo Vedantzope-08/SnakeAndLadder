@@ -15,3 +15,6 @@ graphics.h<br>
  
 Below is the link for setup of graphics.h
 Link :- https://www.geeksforgeeks.org/include-graphics-h-codeblocks/
+
+# Image 
+<img src="sndlpic.jpg" width="600" height="600">
