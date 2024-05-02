@@ -3,12 +3,12 @@
 <\br>
 # Libraries :- 
 <\br>
-<iostream>
-<vector>
-<string>
-<cstdlib>
-<ctime>
-<graphics.h>
+<iostream><\br>
+<vector><\br>
+<string><\br>
+<cstdlib><\br>
+<ctime><\br>
+<graphics.h><\br>
 
 # Grapgics.h setup process
  A graphics library is a program library designed to aid in rendering computer graphics to a monitor. This typically involves providing optimized versions of functions that handle common rendering tasks. This can be done purely in software and running on the CPU, common in embedded systems, or being hardware accelerated by a GPU, more common in PCs. By employing these functions, a program can assemble an image to be output to a monitor. This relieves the programmer of the task of creating and optimizing these functions, and allows them to focus on building the graphics program. Graphics libraries are mainly used in video games and simulations.
